@@ -1,1 +1,1 @@
-include ':mobile', ':tv', ':agileplay'
+include ':tv', ':agileplay'
