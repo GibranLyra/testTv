@@ -1,4 +1,4 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 group = 'com.github.gibranlyra'
 
@@ -6,7 +6,6 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
     defaultConfig {
-        applicationId "uux.com.uuxplay"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
